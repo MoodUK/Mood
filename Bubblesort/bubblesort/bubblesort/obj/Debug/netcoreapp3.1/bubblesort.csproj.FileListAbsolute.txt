@@ -1,0 +1,11 @@
+C:\Users\computing\Desktop\Bubblesort\bubblesort\bubblesort\bin\Debug\netcoreapp3.1\bubblesort.exe
+C:\Users\computing\Desktop\Bubblesort\bubblesort\bubblesort\bin\Debug\netcoreapp3.1\bubblesort.deps.json
+C:\Users\computing\Desktop\Bubblesort\bubblesort\bubblesort\bin\Debug\netcoreapp3.1\bubblesort.runtimeconfig.json
+C:\Users\computing\Desktop\Bubblesort\bubblesort\bubblesort\bin\Debug\netcoreapp3.1\bubblesort.runtimeconfig.dev.json
+C:\Users\computing\Desktop\Bubblesort\bubblesort\bubblesort\bin\Debug\netcoreapp3.1\bubblesort.dll
+C:\Users\computing\Desktop\Bubblesort\bubblesort\bubblesort\bin\Debug\netcoreapp3.1\bubblesort.pdb
+C:\Users\computing\Desktop\Bubblesort\bubblesort\bubblesort\obj\Debug\netcoreapp3.1\bubblesort.csprojAssemblyReference.cache
+C:\Users\computing\Desktop\Bubblesort\bubblesort\bubblesort\obj\Debug\netcoreapp3.1\bubblesort.AssemblyInfoInputs.cache
+C:\Users\computing\Desktop\Bubblesort\bubblesort\bubblesort\obj\Debug\netcoreapp3.1\bubblesort.AssemblyInfo.cs
+C:\Users\computing\Desktop\Bubblesort\bubblesort\bubblesort\obj\Debug\netcoreapp3.1\bubblesort.dll
+C:\Users\computing\Desktop\Bubblesort\bubblesort\bubblesort\obj\Debug\netcoreapp3.1\bubblesort.pdb
